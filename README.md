@@ -1,1 +1,0 @@
-# device-motorola-saipan
